@@ -1,1 +1,1 @@
-# MI-PDD 2018
+# DS/ML homeworks
